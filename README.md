@@ -5,9 +5,6 @@
 This folder contains all the data and MATLAB code for reproducing the results from the paper [1]  
 The following is a description of the folder contents.
 
-README.txt (Plain text):
-  This file
-
 UIUC.mat (MATLAB data file):  D2 Patches for the UIUC [2] experiment arranged in a multidimensional array  
 VisTex.mat (MATLAB data file):  D1 Patches for the VisTex [3] experiment arranged in a multidimensional array  
 bhatt_weibull.m (MATLAB function):  Computes the Bhattacharryya inspired distance measure between two sets of Weibull parameters  
