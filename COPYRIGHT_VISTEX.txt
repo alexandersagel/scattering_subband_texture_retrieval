@@ -1,0 +1,23 @@
+Copyright 1995 by the Massachusetts Institute of Technology.
+All rights reserved.
+
+Developed by Rosalind Picard, Chris Graczyk, Steve Mann, Josh Wachman,
+Len Picard, and Lee Campbell at the Media Laboratory, MIT, Cambridge,
+Massachusetts. 
+
+This distribution is approved by Nicholas Negroponte, Director of the
+Media Laboratory, MIT.
+
+Permission to use, copy, modify, publicly display and distribute this
+database and/or the individual images in electronic or print form is
+hereby granted without fee provided that (i) all use of the images is 
+solely for educational and research purposes; (ii) all distribution of
+the images is at no-cost, except for recovery of cost of the media;
+and (iii) the copyright notice and the authors name(s) appear on all
+copies copies, and this permission notice is included with each
+distribution.  You may also publish the images in scholarly journals
+to report research results without further permission from MIT.  Any other
+commercial distribution or publication of the images, in original or
+modified form, requires the prior written permission of MIT. The name
+of MIT and/or the Media Laboratory may not be used in advertising or
+publicity without the prior written permission of MIT. 
