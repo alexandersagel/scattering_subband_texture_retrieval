@@ -18,8 +18,8 @@ subbandDecomposition.m (MATLAB function):   Decomposes an image into a multireso
 
 ### 2. Software Requirements
 
-a) Statistics Toolbox, http://www.mathworks.de/products/statistics/  
-b) Image Processing Toolbox, http://www.mathworks.de/products/image/  
+a) Statistics Toolbox, https://mathworks.com/products/statistics.html  
+b) Image Processing Toolbox, https://mathworks.com/products/image.html  
 c) ScatNet, http://www.di.ens.fr/data/software/scatnet/  
 d) DT-CWT Toolbox, http://www-sigproc.eng.cam.ac.uk/Main/NGK  
 
